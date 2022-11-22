@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IndividulTask</string>
+    <string name="register_string">Регистрация</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="email">Адрес электронной почты</string>
+    <string name="password">Пароль</string>
+    <string name="register">Регистрация</string>
+    <string name="task_list">Список дел</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="edit_deal">Редактирование дел</string>
+    <string name="save">Сохранить</string>
+</resources>
